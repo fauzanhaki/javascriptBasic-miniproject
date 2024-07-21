@@ -17,18 +17,14 @@ Selamat datang di repo **Miniproject**! Repo ini berisi koleksi proyek kecil unt
 
 1. **Clone repo ini**:
     ```bash
-    git clone https://github.com/username/miniproject.git
+    git clone https://github.com/fauzanhaki/miniproject-learnjavascript.git
     ```
 2. **Navigasi ke direktori proyek**:
     ```bash
-    cd miniproject
+    cd miniproject-learnjavascript
     ```
 3. **Buka file HTML di browser** untuk melihat proyek berfungsi.
 
 ## Kontribusi
 
 Fork, buat branch baru, lakukan perubahan, dan ajukan pull request. Kontribusi sangat kami hargai!
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah MIT License.
