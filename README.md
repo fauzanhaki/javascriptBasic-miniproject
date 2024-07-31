@@ -13,6 +13,15 @@ Selamat datang di repo **Miniproject**! Repo ini berisi koleksi proyek kecil unt
 3. **Game Tebak Angka**
    - Tebak angka acak 1-10 dengan 3 kesempatan.
 
+4. **Bermain Warna**
+   - Implementasi materi document object model dengan warna dan slider button
+
+5. **Game Suit v02**
+   - Implementasi materi document object model, suit player vs comp
+  
+6. **Image Gallery**
+   - Implementasi materi document object model, klik image untuk melihat preview
+
 ## Cara Menggunakan
 
 1. **Clone repo ini**:
